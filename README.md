@@ -2,10 +2,6 @@ Hi There Everyone !!! This is Suyash Pramod Kale here.
 
 This is my Github Repository wherein I have created SQL, Excel and PowerBI Projects
 
-SQL Project - Hospital Management Database System
-Excel Project - Bike Sales Analysis Dashboard Project
-PowerBI Project - India Population Analysis Project
-
 SQL Project - Hospital Management System 
 (File - "Suyash_SQL_Project.pdf")
 DESCRIPTION : This project aims to create Relational Database Management System which handles Hospital Database System effectively.
