@@ -10,10 +10,13 @@ Excel Project - Bike Sales Analysis Dashboard Project
 DESCRIPTION : This project aims to create Bike Sales Analysis Dashboard based on family
 and occupation details of customers.
 
-PowerBI Project - India Population Analysis Report using PowerBI Desktop
+PowerBI Desktop Project - India Population Analysis Report using PowerBI Desktop
 DESCRIPTION : This project aims to create PowerBI Report which analyses India
 Population Data based on various demographic factors
 
 Machine Learning Project (Masters Degree Dissertation) - Heart Disease Prediction Using Machine Learning Algorithms
 DESCRIPTION : This Project aims to study various health factors, based on previous data, that lead to heart disease and implement Classification Supervised
 Machine Learning Algorithms to predict heart disease and which algorithm can give optimum prediction results.
+
+PowerBI Desktop Project - World Population Analysis from 1970-2022 using PowerBI Desktop
+DESCRIPTION : This project aims to study world population demographics based on Area, Population Density, Population Growth Rate for each country and continent.
